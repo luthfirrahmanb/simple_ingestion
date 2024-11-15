@@ -1,5 +1,3 @@
-Here is a simple `README.md` file for your project:
-
 ---
 
 # CSV to BigQuery Ingestion Pipeline
