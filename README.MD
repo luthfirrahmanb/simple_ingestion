@@ -71,4 +71,5 @@ The following enhancements are planned for this project:
 
 ## Result
 ![Image Result](result.png)
+![Image Result 2](result2.png)
 
